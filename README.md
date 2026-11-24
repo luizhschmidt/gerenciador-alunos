@@ -71,3 +71,9 @@ Dicas:
 Para mostrar o SQL gerado pelo Sequelize, troque logging: false por logging: console.log na conexão com o banco. Também é possível abrir o arquivo escola.sqlite no DB Browser for SQLite para ver as tabelas e os registros.
 
 Se a estrutura das tabelas mudar no código, apague o arquivo escola.sqlite antes de rodar de novo, porque o sync não altera tabelas que já existem. Isso apaga os dados cadastrados.
+
+
+Por: Luiz Henrique Schmidt Silva
+Instituição: Escola Tecnica de Eletronica Francisco Moreira da Costa (ETE FMC)
+Matéria: Linguagem de Programação
+Professor: José Andery
