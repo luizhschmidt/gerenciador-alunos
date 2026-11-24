@@ -75,6 +75,10 @@ Se a estrutura das tabelas mudar no código, apague o arquivo escola.sqlite ante
 
 
 
+
+
+
+
 Por: Luiz Henrique Schmidt Silva
 
 Instituição: Escola Tecnica de Eletronica Francisco Moreira da Costa (ETE FMC)
